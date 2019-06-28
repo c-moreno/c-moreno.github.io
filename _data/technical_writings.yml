@@ -1,0 +1,24 @@
+- title: "G&ouml;del's Incompleteness Theorem"
+  url: "/resources/godel_incompleteness_theorem.pdf"
+  date: "Spring 2019"
+  description: >-
+    This was my final paper for CSCI 499&#58; Theory of Computation. This is a detailed summary of 
+    G&ouml;del's Incompleteness Theorem written for an audience of CS undergraduates. 
+    Although &mdash; perhaps because &mdash; G&ouml;del's paper took me more hours to read than there were pages, 
+    I had a lot of fun working on this project.
+  
+- title: "Research Proposal: Automatic Poetry Generation"
+  url: "/resources/automatic_poetry_generation.pdf"
+  date: "Fall 2018"
+  description: >-
+    This is a potential research proposal for my honors senior thesis. This proposal details
+    past research on poetry generation, past research on creative generation using deep learning, and
+    my plan to combine the best of these techniques towards automatic poetry generation.
+
+- title: "The Million Dollar Question: How Hard is that Problem?"
+  url: "/resources/p_vs_np.pdf"
+  date: "Fall 2018"
+  description: >-
+    This is a magazine article I wrote for WRIT 340&#58; Technical Writing. P vs NP is a famous
+    topic within computer science. This article is meant for the average person and 
+    aims to explain the question of P =? NP as well as why it's important.

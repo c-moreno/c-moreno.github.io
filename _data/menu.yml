@@ -1,5 +1,14 @@
 - title: "About Me"
   href: "/about/"
 
+- title: "Projects"
+  href: "/projects/"
+
+- title: "Writing Samples"
+  href: "/writing/"
+
+- title: "Distinctions"
+  href: "/distinctions/"
+
 - title: "Resume"
   href: "/resources/resume.pdf"

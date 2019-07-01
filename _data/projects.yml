@@ -20,14 +20,15 @@
 - workplace: "AthenaHacks"
   date: "Spring 2017"
   projs:  
-    - title: <a href="../resources/hack_harassment.mp4">Hack Harassment</a>
+    - title: <a href="../resources/hack_harassment.mp4">Hack Harassment</a> 
       description: >-
-        I participated in an overnight Hackathon with a theme of decreasing bullying in schools. My group created an iOS app to teach 
+        At this hackathon, I participated in the category to decrease bullying in schools. My group created an iOS app to teach 
         elementary school students about harassment. The structure of the game is based on flappy bird, except
         instead of avoiding structures, the user wants to hit houses. When the user hits a house, they get a scenario related to bullying
         and are given several options on how to react. At the end of the game, based on the reactions they chose, the app gives them 
         feedback about how they typically respond in these situations and how they might respond differently. Our project was awarded 
-        Runner-up for best iOS app.
+        runner-up for best iOS app. An alternate link to a YouTube video of the demo can be found 
+        <a href="https://youtu.be/GxPAcWDHeq0">here</a>.
 
 - workplace: "School Projects"
   projs:  

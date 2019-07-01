@@ -8,7 +8,11 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+/**
+ * Variables
+ */
+ $caption_font_size: 14px;
+ $caption_color: #6d6d6d;
 
 /**
  * Basic styling
@@ -203,4 +207,31 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+/**
+ * custom well-behaved image box on front page and project pages
+ */
+.container{
+    display: flex;
+}
+.fixed{
+
+}
+.flex-item{
+    flex-grow: 0.5;
+}
+
+.gist .csv-data  {
+ overflow:auto;
+ max-height:350px;
+}
+
+.gist .file {
+ max-height:400px;
+ overflow:auto !important;
+}
+
+.gist .type-csv {
+ overflow:hidden !important;
 }

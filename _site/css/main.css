@@ -8,6 +8,9 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 /**
+ * Variables
+ */
+/**
  * Basic styling
  */
 body {
@@ -143,6 +146,26 @@ pre {
   vertical-align: middle; }
   .icon > svg path {
     fill: #828282; }
+
+/**
+ * custom well-behaved image box on front page and project pages
+ */
+.container {
+  display: flex; }
+
+.flex-item {
+  flex-grow: 0.5; }
+
+.gist .csv-data {
+  overflow: auto;
+  max-height: 350px; }
+
+.gist .file {
+  max-height: 400px;
+  overflow: auto !important; }
+
+.gist .type-csv {
+  overflow: hidden !important; }
 
 /**
  * Site header
@@ -306,6 +329,17 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+/*
+ * images
+ */
+.caption {
+  height: 100%;
+  color: #6d6d6d;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 14px;
+  padding-top: 5px; }
 
 /**
  * Syntax highlighting styles

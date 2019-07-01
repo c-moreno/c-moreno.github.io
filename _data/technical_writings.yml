@@ -15,6 +15,15 @@
     past research on poetry generation, past research on creative generation using deep learning, and
     my plan to combine the best of these techniques towards automatic poetry generation.
 
+- title: "Number Theory and Cryptography Supplemental Handout"
+  url: "/resources/cryptography_handout.pdf"
+  date: "Fall 2018"
+  description: >-
+    This is a supplemental handout I wrote when I was course producing CSCI 270&#58; Introduction to Algorithms
+    and the Theory of Computing. Many of the students were struggling with the concepts of number theory and cryptography 
+    that were presented in lecture, so I wrote this handout in conjunction with the professor. My main contribution was 
+    "Section 2&#58; Public-Key Cryptography."
+
 - title: "The Million Dollar Question: How Hard is that Problem?"
   url: "/resources/p_vs_np.pdf"
   date: "Fall 2018"

@@ -1,14 +1,15 @@
 - workplace: "Microsoft: Software Development Intern"
   date: "Summer 2019"
-  projs:  
-    - title: "New Feature on Whiteboard"#"Document Insertion in Whiteboard" # I developed a new workflow for inserting Office documents into the Whiteboard application. I developed this feature
-        # end-to-end and learned C#.
+  projs:
+    - title: "Office Document Integrations with Microsoft Whiteboard App"
       description: >-
-        I am working on the Microsoft Whiteboard app. Details of my project to come when the feature is released.
+        I created a feature to integrate Office documents into the Microsoft Whiteboard App. This project was end-to-end, requiring
+        me to work across project management, design, business operations, and software development. I learned networking and C#
+        throughout this process.
 
 - workplace: "Facebook: Software Development Intern"
   date: "Summer 2018"
-  projs:  
+  projs:
     - title: <a href="https://developers.facebook.com/docs/app-events/">App Event Tracking</a>
       description: >-
         I spent the summer developing a new approach to app event tracking within Facebook's SDK for iOS applications.
@@ -19,19 +20,19 @@
 
 - workplace: "AthenaHacks"
   date: "Spring 2017"
-  projs:  
-    - title: <a href="../resources/hack_harassment.mp4">Hack Harassment</a> 
+  projs:
+    - title: <a href="../resources/hack_harassment.mp4">Hack Harassment</a>
       description: >-
-        At this hackathon, I participated in the category to decrease bullying in schools. My group created an iOS app to teach 
+        At this hackathon, I participated in the category to decrease bullying in schools. My group created an iOS app to teach
         elementary school students about harassment. The structure of the game is based on flappy bird, except
         instead of avoiding structures, the user wants to hit houses. When the user hits a house, they get a scenario related to bullying
-        and are given several options on how to react. At the end of the game, based on the reactions they chose, the app gives them 
-        feedback about how they typically respond in these situations and how they might respond differently. Our project was awarded 
-        runner-up for best iOS app. An alternate link to a YouTube video of the demo can be found 
+        and are given several options on how to react. At the end of the game, based on the reactions they chose, the app gives them
+        feedback about how they typically respond in these situations and how they might respond differently. Our project was awarded
+        runner-up for best iOS app. An alternate link to a YouTube video of the demo can be found
         <a href="https://youtu.be/GxPAcWDHeq0">here</a>.
 
 - workplace: "School Projects"
-  projs:  
+  projs:
     - title: "Scheme Interpreter"
       date: Spring 2019
       description: >-
@@ -52,7 +53,7 @@
 
 - workplace: "Metro Paws: Product Design Intern"
   date: "Summer 2017"
-  projs:   
+  projs:
     - title: "Redesign of Doggy Bag Dispenser"
       description: >-
         At this point I was a mechanical engineering major, so my project involved redesigning their doggy bag dispenser. I
@@ -64,7 +65,7 @@
 
 - workplace: "USC Interaction Lab: Merit Research Fellow"
   date: "Spring 2017"
-  projs:  
+  projs:
     - title: <a href="http://robotics.usc.edu/interaction/sponsors/desc.php?name=expeditions">Socially Assistive Robotics</a>
       description: >-
         The USC Interaction Lab is dedicated to human-robot interaction. The project I assisted with uses socially assistive
@@ -73,10 +74,10 @@
 
 - workplace: "Oregon State Chemical Engineering Lab: Research Intern"
   date: "Summer 2015"
-  projs:      
+  projs:
     - title: <a href="../resources/microfluidics_poster.png">Fabrication of Microfluidic Devices</a>
       description: >-
-        I worked with the microfluidics research team to develop microfluidic devices to measure the extensional viscosity of liquids. 
+        I worked with the microfluidics research team to develop microfluidic devices to measure the extensional viscosity of liquids.
         Throughout the summer I used 3D printing, photolithography, and soft lithography to fabricate these devices. At the end of the summer I presented
-        my findings at the Apprenticeships in Science and Engineering Symposium. Here are links to my <a href="../resources/microfluidics_poster.png">poster</a> 
+        my findings at the Apprenticeships in Science and Engineering Symposium. Here are links to my <a href="../resources/microfluidics_poster.png">poster</a>
         and <a href="../resources/microfluidics_presentation.pdf">slide deck</a>.

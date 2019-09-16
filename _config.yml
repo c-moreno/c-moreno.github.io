@@ -9,11 +9,11 @@
 title: Ryan Moreno
 email: moreno.ryanr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ryan Moreno is an undergraduate student at the University of Southern California studying 
+  Ryan Moreno is an undergraduate student at the University of Southern California studying
   Computer Science and Creative Writing.
-footerdescription: >
-  Computer Science and Creative Writing major at
-  the University of Southern California
+footerdescription: >-
+  Computer Science and Creative Writing major
+  University of Southern California
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ryan-moreno.github.io" # the base hostname & protocol for your site
 linkedin_username: "ryan-moreno-37bb96127"

@@ -47,7 +47,7 @@ Because I've enjoyed my job as a course producer so much (and in a large part be
 
 Becoming a professor seems like the perfect career path for me because it combines my passion for teaching, drive to research, and need to continue actively learning. In order to pursue this goal, I'm planning on attending graduate school to pursue a PhD in CS theory, with the possibility of taking a gap year to finish my creative writing major in an extra semester.
 
-Outside of academics, I enjoy staying active. I played on <a href="http://www.uscwomensultimate.com/">USC's club ultimate frisbee team</a> for the first two of college, and I've been on the triathlon team since my sophomore year. I also love hiking and backpacking, and am a guide for <a href="http://scoutfitters.org/">USC's outdoor club</a>. 
+Outside of academics, I enjoy staying active. I played on <a href="http://www.uscwomensultimate.com/">USC's club ultimate frisbee team</a> for the first two of college, and I've been on the triathlon team since my sophomore year. I also love hiking and backpacking and am a guide for <a href="http://scoutfitters.org/">USC's outdoor club</a>. 
 
 <div class="img-group flex-container flex-aspect">
 

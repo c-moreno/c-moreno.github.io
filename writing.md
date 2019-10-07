@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Writing Samples
+title:
 permalink: /writing/
 ---
-# Technical Writing
+<h1 class="post-title">Technical Writing</h1>
+
 <ul class="posts">
   {% for post in site.data.technical_writings %}
     <li><strong><a href="{{ post.url }}">{{ post.title }}</a> </strong>&raquo; {{ post.date }}</li>
@@ -11,7 +12,9 @@ permalink: /writing/
   {% endfor %}
 </ul>
 
-# Creative Writing
+<br />
+<h1 class="post-title">Creative Writing</h1>
+
 <ul class="posts">
   {% for post in site.data.creative_writings %}
     <li><strong><a href="{{ post.url }}">{{ post.title }}</a> </strong>&raquo; {{ post.date }}</li>

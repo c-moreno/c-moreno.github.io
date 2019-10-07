@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Distinctions
+title:
 permalink: /distinctions/
 ---
+
+<h1 class="post-title">Awards</h1>
 
 <ul class="posts">
   {% for aw in site.data.awards %}
@@ -16,6 +18,9 @@ permalink: /distinctions/
     {% endif %}
   {% endfor %}
 </ul>
+
+<br />
+<h1 class="post-title">Conferences</h1>
 
 <ul class="posts">
   {% for conf in site.data.conferences %}

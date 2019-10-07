@@ -1,0 +1,27 @@
+- workplace: "USC Intelligence and Knowledge Lab: Merit Research Fellow"
+  date: "Present"
+  projs:
+    - title: <a href="http://inklab.usc.edu">Distantly-Supervised Named Entity Recognition using Triggers</a>
+      description: >-
+        I am working on a team to develop a novel approach to recognizing named entities (such as people or chemicals) in sentences.
+        The basic idea is that we will use a small amount of human-annotated data to recognize trigger phrases for different categories of
+        named entities. Then we will use existing machine learning techniques to annotate new entities using these trigger phrases.
+
+- workplace: "USC Interaction Lab: Merit Research Fellow"
+  date: "Spring 2017"
+  projs:
+    - title: <a href="http://robotics.usc.edu/interaction/sponsors/desc.php?name=expeditions">Socially Assistive Robotics</a>
+      description: >-
+        The USC Interaction Lab is dedicated to human-robot interaction. The project I assisted with uses socially assistive
+        robotics to help children with autism communicate and interact. I had a wide variety of tasks, the majority of which
+        involved using Solidworks to design objects to hold robots and their parts.
+
+- workplace: "Oregon State Chemical Engineering Lab: Research Intern"
+  date: "Summer 2015"
+  projs:
+    - title: <a href="../resources/microfluidics_poster.png">Fabrication of Microfluidic Devices</a>
+      description: >-
+        I worked with the microfluidics research team to develop microfluidic devices to measure the extensional viscosity of liquids.
+        Throughout the summer I used 3D printing, photolithography, and soft lithography to fabricate these devices. At the end of the summer I presented
+        my findings at the Apprenticeships in Science and Engineering Symposium. Here are links to my <a href="../resources/microfluidics_poster.png">poster</a>
+        and <a href="../resources/microfluidics_presentation.pdf">slide deck</a>.

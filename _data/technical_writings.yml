@@ -1,3 +1,21 @@
+- title: "Dynamic Programming Supplemental Handout"
+  url: "/resources/dynamic_programming_handout.pdf"
+  date: "Fall 2019"
+  description: >-
+    This is a supplemental handout I wrote while course producing CSCI 270&#58; Introduction to Algorithms
+    and the Theory of Computing. Many of the students felt that they could understand dynamic programming solutions
+    when we presented them, but had trouble coming up with the solutions on their own. In my opinion, creative problem
+    solving is the most important skill to take away from this class, so I wrote this handout hoping it would
+    provide students with an approach to solving dynamic programming problems.
+
+- title: "Security of Blockchain"
+  url: "/resources/blockchain_security.pdf"
+  date: "Fall 2019"
+  description: >-
+    This is a glimpse into how Blockchain works and the mathematics behind its security. I wrote
+    this for CSCI 476&#58; Introduction to Modern Cryptography. The audience is meant to have a basic understanding of
+    cryptography and probability.
+
 - title: "G&ouml;del's Incompleteness Theorem"
   url: "/resources/godel_incompleteness_theorem.pdf"
   date: "Spring 2019"
@@ -7,16 +25,6 @@
     Although &mdash; perhaps because &mdash; G&ouml;del's paper took me more hours to read than there were pages,
     I had a lot of fun working on this project.
 
-- title: "Dynamic Programming Supplemental Handout"
-  url: "/resources/dynamic_programming_handout.pdf"
-  date: "Fall 2019"
-  description: >-
-    This is a supplemental handout I wrote while course producing CSCI 270&#58; Introduction to Algorithms
-    and the Theory of Computing. Many of the students felt that they could understand dynamic programming solutions
-    when we presented them, but had trouble coming up with the solutions on their own. In my opinion, creative problem 
-    solving is the most important skill to take away from this class, so I wrote this handout hoping it would 
-    provide students with an approach to solving dynamic programming problems.
-
 - title: "Research Proposal: Automatic Poetry Generation"
   url: "/resources/automatic_poetry_generation.pdf"
   date: "Fall 2018"
@@ -24,14 +32,6 @@
     This is a potential research proposal for my honors senior thesis. This proposal details
     past research on poetry generation, past research on creative generation using deep learning, and
     my plan to combine the best of these techniques towards automatic poetry generation.
-
-- title: "Security of Blockchain"
-  url: "/resources/blockchain_security.pdf"
-  date: "Fall 2019"
-  description: >-
-    This is a glimpse into how Blockchain works and the mathematics behind its security. I wrote
-    this for CSCI 476&#58; Introduction to Modern Cryptography. The audience is meant to have a basic understanding of
-    cryptography and probability.
 
 - title: "Number Theory and Cryptography Supplemental Handout"
   url: "/resources/cryptography_handout.pdf"

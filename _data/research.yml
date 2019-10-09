@@ -3,9 +3,11 @@
   projs:
     - title: <a href="http://inklab.usc.edu">Distantly-Supervised Named Entity Recognition using Triggers</a>
       description: >-
-        I am working on a team to develop a novel approach to recognizing named entities (such as people or chemicals) in sentences.
+        I'm on a team using distantly-supervised machine learning to develop a novel approach to recognizing named entities
+        (such as people or chemicals) in sentences.
         The basic idea is that we will use a small amount of human-annotated data to recognize trigger phrases for different categories of
-        named entities. Then we will use existing machine learning techniques to annotate new entities using these trigger phrases.
+        named entities. Then we will use existing machine learning techniques to annotate new entities using these trigger phrases. My
+        responsibilities are to implement and test the machine learning algorithms.
 
 - workplace: "USC Interaction Lab: Merit Research Fellow"
   date: "Spring 2017"
@@ -21,7 +23,9 @@
   projs:
     - title: <a href="../resources/microfluidics_poster.png">Fabrication of Microfluidic Devices</a>
       description: >-
-        I worked with the microfluidics research team to develop microfluidic devices to measure the extensional viscosity of liquids.
-        Throughout the summer I used 3D printing, photolithography, and soft lithography to fabricate these devices. At the end of the summer I presented
-        my findings at the Apprenticeships in Science and Engineering Symposium. Here are links to my <a href="../resources/microfluidics_poster.png">poster</a>
+        I worked with the microfluidics research team to develop microfluidic devices to measure the extensional viscosity of liquids. Extensional
+        viscosity is a fluid's resistance to stretching. In highly viscous fluids, this can be measured with equipment that stretches a droplet until it breaks.
+        However, low-viscosity fluids break too quickly to measure accurately. I used 3D printing, photolithography, and soft lithography to fabricate
+        new devices to measure extensional viscosity in low-viscosity fluids. At the end of the summer I presented my findings at the Apprenticeships in Science and Engineering Symposium.
+        Here are links to my <a href="../resources/microfluidics_poster.png">poster</a>
         and <a href="../resources/microfluidics_presentation.pdf">slide deck</a>.

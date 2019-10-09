@@ -4,7 +4,8 @@
     - title: "Office Document Integrations with Microsoft Whiteboard App"
       description: >-
         I created a feature to integrate Office documents into the Microsoft Whiteboard App. This project was end-to-end, requiring
-        me to work across project management, design, business operations, and software development. I learned networking and C#
+        me to work across project management, design, business operations, and software development. Within software development, I built the user
+        interface for inserting Office documents and created the backend framework to convert and insert documents. I learned networking and C#
         throughout the process.
     - title: <a href="../resources/code_actions.mp4">Q# Code Actions</a>
       description: >-
@@ -17,8 +18,10 @@
   projs:
     - title: <a href="https://developers.facebook.com/docs/app-events/">App Event Tracking</a>
       description: >-
-        I spent the summer developing a new approach to app event tracking within Facebook's SDK for iOS applications.
-        This product helps third-party developers track their app events. This project was full-stack and involved PHP and Objective-C.
+        Facebook develops a software development kit (SDK) that allows third-party developers to integrate Facebook within their own
+        iOS app. One of the benefits of this integration is that the third-party app can provide analytics that benefit that app's ad
+        campaigns on Facebook. I implemented a new approach to event tracking within the SDK, empowering outside developers with
+        better data on how their app is used. This project was full-stack and involved PHP and Objective-C.
     - title: "Timeline Privacy"
       description: >-
         As part of a Facebook hackathon, I worked with another intern to design and implement a new timeline privacy setting.
@@ -28,8 +31,11 @@
   projs:
     - title: "Redesign of Doggy Bag Dispenser"
       description: >-
-        At this point I was a mechanical engineering major, so my project involved redesigning their doggy bag dispenser. I
-        created new designs using AutoCAD and researched, interviewed, and selected alternate manufacturing facilities.
+        I recreated Metro Paws' silicone doggy bag dispenser. They've used the same manufacturing mold for years and were
+        interested in changing the design based on customer feedback and to remedy manufacturing difficulties they were having.
+        As the only person in the company with an engineering background (at that point I was studying mechanical engineering),
+        I created CAD drawings that incorporated the design team's ideas and simplified the design process. I also researched, interviewed,
+        and selected alternate manufacturing facilities.
     - title: "Researching Eco-Friendly Materials"
       description: >-
         I worked on several side projects, including researching alternate manufacturing materials that would

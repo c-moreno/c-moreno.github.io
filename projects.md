@@ -38,13 +38,16 @@ permalink: /projects/
     {% endif %}
     <ul>
     {% for proj_spec in proj.projs %}
-      {% if proj_spec.date %}
-       <li><strong>{{ proj_spec.title}}</strong> &raquo; {{ proj_spec.date }}</li>
+      {% if proj_spec.title %}
+        {% if proj_spec.date %}
+         <li><strong>{{ proj_spec.title}}</strong> &raquo; {{ proj_spec.date }}</li>
+        {% else %}
+          <li><strong>{{ proj_spec.title}}</strong></li>
+        {% endif %}
+        <p style="margin-left:10px">{{ proj_spec.description}} </p>
       {% else %}
-        <li><strong>{{ proj_spec.title}}</strong></li>
+        <li><p style="margin-left:10px">{{ proj_spec.description}} </p></li>
       {% endif %}
-
-      <p style="margin-left:10px">{{ proj_spec.description}} </p>
     {% endfor %}
     </ul>
   {% endfor %}

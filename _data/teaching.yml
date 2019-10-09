@@ -1,24 +1,24 @@
 - workplace: "USC Viterbi Teaching Staff"
-  projs:  
+  projs:
     - title: "CSCI 270: Introduction to Algorithms and the Theory of Computation"
       date: "Fall 2018 & Present"
-      description: >- 
-        I held office hours, created course content, graded assignments, and proctored and graded and exams.
+      description: >-
+        I led discussion sections, held office hours, created course content, graded assignments, and proctored and graded exams.
     - title: "CSCI 170: Discrete Methods in Computer Science"
       date: "Spring 2019"
-      description: >- 
-        I led discussion sections, held office hours, created course content, graded assignments, and proctored and graded and exams.
+      description: >-
+        I led discussion sections, held office hours, created course content, graded assignments, and proctored and graded exams.
     - title: "CSCI 103: Introduction to Programming"
       date: "Fall 2017 & Spring 2018"
-      description: >- 
-        I led lab sections, held office hours, graded assignments, and proctored and graded and exams.
+      description: >-
+        I led lab sections, held office hours, graded assignments, and proctored and graded exams.
 
 - workplace: "Troy Camp"
   date: "Fall 2018 &mdash; Present"
-  projs:  
+  projs:
     - title: "TC Leads"
       description: >-
-        TC Leads is a high school mentoring and tutoring program. We meet with students once a week, helping with homework and leading 
+        TC Leads is a high school mentoring and tutoring program. We meet with students once a week, helping with homework and leading
         programming for academic and personal development
     - title: "Elementary Programming"
       description: >-
@@ -26,8 +26,8 @@
         a week-long sleepaway camp.
 
 - workplace: Joint Educational Programming
-  projs:  
-    - title: 8th Grade Math Mentor-Tutor 
+  projs:
+    - title: 8th Grade Math Mentor-Tutor
       date: Fall 2016
       description: >-
         I assisted in an LAUSD 8th grade math class. I provided additional support and math help while the students worked
@@ -40,7 +40,7 @@
 
 - workplace: Project 32
   date: Spring 2017
-  projs:  
+  projs:
     - title: 12th Grade AVID Class
       description: >-
         I assisted in an LAUSD 12th grade AVID class. This class was a study hall for students who were at risk of not

@@ -27,10 +27,10 @@ permalink: /projects/
 </ul>
 
 <br />
-<h1 class="post-title">Projects</h1>
+<h1 class="post-title">Industry</h1>
 
 <ul class="posts">
-  {% for proj in site.data.projects %}
+  {% for proj in site.data.industry %}
     {% if proj.date %}
       <h4><li>{{ proj.workplace }} &raquo; <small>{{ proj.date }}</small></li></h4>
     {% else %}
@@ -47,5 +47,19 @@ permalink: /projects/
       <p style="margin-left:10px">{{ proj_spec.description}} </p>
     {% endfor %}
     </ul>
+  {% endfor %}
+
+<br />
+</ul><h1 class="post-title">School</h1>
+
+<ul class="posts">
+  {% for proj_spec in site.data.school %}
+      {% if proj_spec.date %}
+       <li><strong>{{ proj_spec.title}}</strong> &raquo; {{ proj_spec.date }}</li>
+      {% else %}
+        <li><strong>{{ proj_spec.title}}</strong></li>
+      {% endif %}
+
+      <p style="margin-left:10px">{{ proj_spec.description}} </p>
   {% endfor %}
 </ul>

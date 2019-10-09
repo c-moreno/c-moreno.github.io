@@ -6,6 +6,11 @@
         I created a feature to integrate Office documents into the Microsoft Whiteboard App. This project was end-to-end, requiring
         me to work across project management, design, business operations, and software development. I learned networking and C#
         throughout the process.
+    - title: "Q# Code Actions"
+      description: >-
+        Q# is a programming language that Microsoft is developing for quantum computing. As part of Microsoft's company-wide hackathon,
+        I worked on a team to create code actions for Q# within VS Code. I created code actions to replace the deprecated NOT, OR, and
+        AND operators.
 
 - workplace: "Facebook: Software Development Intern"
   date: "Summer 2018"
@@ -42,34 +47,3 @@
         feedback about how they typically respond in these situations and how they might respond differently. Our project was awarded
         runner-up for best iOS app. An alternate link to a YouTube video of the demo can be found
         <a href="https://youtu.be/GxPAcWDHeq0">here</a>.
-
-- workplace: "School Projects"
-  projs:
-    - title: "Parlay Analytics Portal"
-      date: Fall 2019
-      description: >-
-        For my capstone project, I'm working on a team to create an analytics portal for the company Parlay Analytics. They have
-        a phone app that allows users to place bets on sports games. We are creating a web app to allow stakeholders to visualize
-        data about these bets. My contribution is mainly backend work.
-    - title: "Neural Network for Handwritten Numbers"
-      date: Fall 2019
-      description: >-
-        For CSCI 360&#58; Artificial Intelligence, I created a neural network. The network uses images from the MNIST handwritten digit
-        database for training and testing data, and it uses back propogation to learn to classify these handwritten numbers.
-    - title: "Scheme Interpreter"
-      date: Spring 2019
-      description: >-
-        For my final project for CSCI 499&#58; Concepts in Programming Languages, I wrote a Scheme interpreter in Java. The program
-        reads valid Scheme syntax as user input, evaluates it, and writes the output.
-    - title: <a href="../resources/kindlr.pdf">Kindlr</a>
-      date: Fall 2018
-      description: >-
-        As part of CSCI 310&#58; Software Engineering, I was in a semester-long group project. We made an Android app that was Tindr for
-        books. Once signed in, users can upload books that they want to sell/trade and browse other users' books in a similar fashion
-        to Tindr. If two users match, they are brought to a chat screen to complete their transaction.
-    - title: <a href="../resources/trojans_connect.png">TrojanSConnect</a>
-      date: Spring 2018
-      description: >-
-        The final project of CSCI 201&#58; Principles of Software Development was a group project. My group created a social media iOS
-        app. Once signed in, users can leave audio, visual, and text messages at geographic locations around USC's campus. Other users can
-        then find these messages dropped around campus. It's like a campus-wide treasure hunt!

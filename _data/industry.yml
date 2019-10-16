@@ -20,7 +20,7 @@
       description: >-
         Facebook develops a software development kit (SDK) that allows third-party developers to integrate Facebook within their own
         iOS app. One of the benefits of this integration is that the third-party app can provide analytics that benefit that app's ad
-        campaigns on Facebook. I implemented a new approach to event tracking within the SDK, empowering outside developers with
+        campaigns on Facebook. I implemented a new approach to app event tracking within the SDK, empowering outside developers with
         better data on how their app is used. This project was full-stack and involved PHP and Objective-C.
     - title: "Timeline Privacy"
       description: >-

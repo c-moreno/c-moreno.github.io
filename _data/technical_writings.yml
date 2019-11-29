@@ -33,14 +33,14 @@
     I had a lot of fun working on this project.
 
 - title: "Research Proposal: Automated Poetry Generation"
-  url: "/resources/automatic_poetry_generation.pdf"
+  url: "/resources/automated_poetry_generation.pdf"
   date: "Fall 2018"
   description: >-
     This is the research proposal for my honors undergraduate thesis. This proposal details
     past research on poetry generation, past research on creative generation using deep learning, and
-    my plan to combine the best of these techniques towards automatic poetry generation. I presented my proposal at the Viterbi 
+    my plan to combine the best of these techniques towards automated poetry generation. I presented my proposal at the Viterbi 
     Student Speaker Symposium in November 2019. My slides can be viewed 
-    <a href="/resources/automatic_poetry_generation_presentation.pdf">here</a>.
+    <a href="/resources/automated_poetry_generation_presentation.pdf">here</a>.
 
 - title: "Number Theory and Cryptography Supplemental Handout"
   url: "/resources/cryptography_handout.pdf"

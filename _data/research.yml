@@ -15,9 +15,11 @@
   projs:
     - title: <a href="/resources/automatic_poetry_generation.pdf">Automated Poetry Generation</a>
       description: >-
-        For my undergraduate honors thesis, I created a research proposal to use deep learning for automated poetry generation. Deep learning
-        has been successful for creative image and sound generation, and I am modifying these existing techniques for the use of poetry
-        generation. I presented my proposal at the Viterbi Student Speaker Symposium in November 2019. My slides can be viewed 
+        I am being advised by <a href="http://ink-ron.usc.edu/xiangren/">Dr. Xiang Ren</a> for my undergraduate honors thesis. I created a 
+        research proposal to use deep learning for automated poetry generation. 
+        Deep learning has been successful for creative image and sound generation, and I am working on 
+        modifying these existing techniques for the use of poetry generation. 
+        I presented my proposal at the Viterbi Student Speaker Symposium in November 2019. My slides can be viewed 
         <a href="/resources/automatic_poetry_generation_presentation.pdf">here</a>.
 
 - workplace: "USC Interaction Lab: Merit Research Fellow"

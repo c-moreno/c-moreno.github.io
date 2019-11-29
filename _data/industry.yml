@@ -3,10 +3,10 @@
   projs:
     - title: "Office Document Integrations with Microsoft Whiteboard App"
       description: >-
-        I created a feature to integrate Office documents into the Microsoft Whiteboard App. This project was end-to-end, requiring
+        I created a feature to support the import of Office documents into the Microsoft Whiteboard App. This project was end-to-end, requiring
         me to work across project management, design, business operations, and software development. Within software development, I built the user
-        interface for inserting Office documents and created the backend framework to convert and insert documents. I learned networking and C#
-        throughout the process.
+        interface for inserting Office documents and created the backend framework to convert and insert documents. The feature was released to the 
+        public in October 2019. I learned networking and C# throughout the process.
     - title: <a href="../resources/code_actions.mp4">Q# Code Actions</a>
       description: >-
         Q# is a programming language that Microsoft is developing for quantum computing. As part of Microsoft's company-wide hackathon,

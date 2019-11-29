@@ -5,9 +5,20 @@
       description: >-
         I'm on a team using distantly-supervised machine learning to develop a novel approach to recognizing named entities
         (such as people or chemicals) in sentences.
-        The basic idea is that we will use a small amount of human-annotated data to recognize trigger phrases for different categories of
-        named entities. Then we will use existing machine learning techniques to annotate new entities using these trigger phrases. My
-        responsibilities are to implement and test the machine learning algorithms.
+        The basic idea is that we use a small amount of human-annotated data consisting of sentences with their words categorically-labeled 
+        as well as labeled trigger phrases that signal a named entity. We use the trigger phrases to generate weakly-labeled sentences, which 
+        are used in combination with our original categorically-labeled data to train a sentence labeling network. 
+        My responsibilities are to implement and test the machine learning algorithms as well as help to write our research paper.
+
+- workplace: "USC Undergraduate Honors Thesis"
+  date: "Present"
+  projs:
+    - title: <a href="/resources/automatic_poetry_generation.pdf">Automated Poetry Generation</a>
+      description: >-
+        For my undergraduate honors thesis, I created a research proposal to use deep learning for automated poetry generation. Deep learning
+        has been successful for creative image and sound generation, and I am modifying these existing techniques for the use of poetry
+        generation. I presented my proposal at the Viterbi Student Speaker Symposium in November 2019. My slides can be viewed 
+        <a href="/resources/automatic_poetry_generation_presentation.pdf">here</a>.
 
 - workplace: "USC Interaction Lab: Merit Research Fellow"
   date: "Spring 2017"

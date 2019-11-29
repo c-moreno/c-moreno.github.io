@@ -3,7 +3,19 @@
   description: >-
     For my capstone project, I'm working on a team to create an analytics portal for the company Parlay Analytics. They have
     a phone app that allows users to place bets on sports games. We are creating a web app to allow stakeholders to visualize
-    data about these bets. My contribution is mainly backend work.
+    data about these bets. I am mainly working on the backend.
+- title: "Markov Decision Processes"
+  date: Fall 2019
+  description: >-
+    For CSCI 360&#58; Artificial Intelligence, I created three solvers for Markov Decision Processes (MDP). The first two solvers,
+    using value iteration and policy iteration, can be used to solve MDPs where the dynamics are known a priori. The final solver
+    uses q-learning and is useful when the dynamics of the MDP are not known a priori.
+- title: "Multi-Agent Path Finding"
+  date: Fall 2019
+  description: >-
+    For CSCI 360&#58; Artificial Intelligence, I created a single-agent path finder using time-space A* and two multi-agent path finders, 
+    one using prioritized planning and the other using conflict-based search.
+    conflict-based search.
 - title: "Neural Network for Handwritten Numbers"
   date: Fall 2019
   description: >-

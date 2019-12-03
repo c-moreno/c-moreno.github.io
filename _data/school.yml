@@ -1,4 +1,4 @@
-- title: "Parlay Analytics Portal"
+- title: <a href="../resources/parlay_analytics.pdf">Parlay Analytics Portal</a>
   date: Fall 2019
   description: >-
     For my capstone project, I'm working on a team to create an analytics portal for the company Parlay Analytics. They have
@@ -13,7 +13,7 @@
 - title: "Multi-Agent Path Finding"
   date: Fall 2019
   description: >-
-    For CSCI 360&#58; Artificial Intelligence, I created a single-agent path finder using time-space A* and two multi-agent path finders, 
+    For CSCI 360&#58; Artificial Intelligence, I created a single-agent path finder using time-space A* and two multi-agent path finders,
     one using prioritized planning and the other using conflict-based search.
     conflict-based search.
 - title: "Neural Network for Handwritten Numbers"

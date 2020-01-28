@@ -1,24 +1,30 @@
 - workplace: <a href="http://inklab.usc.edu">USC Intelligence and Knowledge Lab:</a> Merit Research Fellow
   date: "Present"
   projs:
+    - title: Auxiliary Learning for Named Entity Recognition
+      description: >-
+        My team is working to develop novel approaches to recognizing named entities (such as people or chemicals) in sentences.
+        We are investigating the use of using auxiliary learning -- training towards multiple, related goals -- to increase
+        the effectiveness of our existing methods for named entity recognition. This is an ongoing project and will be the basis
+        of my undergraduate honors thesis.
+
     - title: Distantly-Supervised Named Entity Recognition using Triggers
       description: >-
-        I'm on a team using distantly-supervised machine learning to develop a novel approach to recognizing named entities
-        (such as people or chemicals) in sentences.
-        The basic idea is that we use a small amount of human-annotated data consisting of sentences with their words categorically-labeled
-        as well as labeled trigger phrases that signal a named entity. We use the trigger phrases to generate weakly-labeled sentences, which
-        are used in combination with our original categorically-labeled data to train a sentence labeling network.
-        My responsibilities are to implement and test the machine learning algorithms as well as help to write our research paper.
+        My team used distantly-supervised machine learning to develop a novel approach to named entity recognition.
+        The basic idea is that we use a small amount of human-annotated data consisting of sentences with their words categorically labeled
+        as well as labeled trigger phrases that signal a named entity. We use the trigger phrases to generate weakly labeled sentences, which
+        are used in combination with our original categorically labeled data to train a sentence labeling network.
+        My responsibilities were to implement and test the machine learning algorithms as well as help to write our manuscript, submitted
+        for publication in December 2019.
 
-- workplace: "USC Undergraduate Honors Thesis"
-  date: "Present"
+- workplace: "USC WRIT 340: Advanced Writing for Engineers"
+  date: "Fall 2018"
   projs:
     - title: <a href="/resources/automated_poetry_generation.pdf">Automated Poetry Generation</a>
       description: >-
-        I am being advised by <a href="http://ink-ron.usc.edu/xiangren/">Dr. Xiang Ren</a> for my undergraduate honors thesis. I created a
-        research proposal to use deep learning for automated poetry generation.
-        Deep learning has been successful for creative image and sound generation, and I am working on
-        modifying these existing techniques for the use of poetry generation.
+        I developed a research proposal to use deep learning for automated poetry generation.
+        Deep learning has been successful for creative image and sound generation, and I developed a proposal to
+        modify these existing techniques for the use of poetry generation.
         I presented my proposal at the Viterbi Student Speaker Symposium in November 2019. My slides can be viewed
         <a href="/resources/automated_poetry_generation_presentation.pdf">here</a>.
 

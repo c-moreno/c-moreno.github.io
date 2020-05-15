@@ -5,7 +5,7 @@
       description: >-
         Named entity recognition (NER) is the task of extracting named entities from text and classifying them using pre-defined
         categories (e.g. persons, locations, or organizations).
-        State-of-the-art NER models necessitate significant amounts of human-annotated ground-truth data, and the process of annotation 
+        State-of-the-art NER models necessitate significant amounts of human-annotated ground-truth data, and the process of annotation
         is expensive and time consuming.
         Thus, a crucial research question is how we can more efficiently collect and use human-annotated ground-truth data.
         The two projects below -- adversarial data augmentation and entity triggers -- explore data efficiency in named entity recognition.
@@ -19,7 +19,7 @@
         the use of adversarial training -- generating additional training data by using the same augmentation methods used for
         adversarial training. This project is ongoing.
 
-    - title: <a href="https://arxiv.org/abs/2004.07493">TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition</a>
+    - title: <a href="https://arxiv.org/abs/2004.07493">TriggerNER&#58; Learning with Entity Triggers as Explanations for Named Entity Recognition</a>
       description: >-
         My team used distantly-supervised machine learning to develop a novel approach to named entity recognition.
         The basic idea is that we use a small amount of human-annotated data consisting of sentences with their words categorically labeled
@@ -40,7 +40,7 @@
         <a href="/resources/automated_poetry_generation_presentation.pdf">here</a>. This research paper received
         1st place for the Viterbi Award for Best Research Paper.
 
-- workplace: <a href="http://robotics.usc.edu/interaction/">USC Interaction Lab:</a> Merit Research Fellow
+- workplace: <a href="http://robotics.usc.edu/interaction/">USC Interaction Lab&#58;</a> Merit Research Fellow
   date: "Spring 2017"
   projs:
     - title: <a href="http://robotics.usc.edu/interaction/sponsors/desc.php?name=expeditions">Socially Assistive Robotics</a>

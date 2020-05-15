@@ -1,21 +1,32 @@
 - workplace: <a href="http://inklab.usc.edu">USC Intelligence and Knowledge Lab:</a> Merit Research Fellow
   date: "Present"
   projs:
-    - title: Auxiliary Learning for Named Entity Recognition
+    - title: <a href="/resources/Honors_Thesis.pdf">Honors Undergraduate Thesis</a>
       description: >-
-        My team is working to develop novel approaches to recognizing named entities (such as people or chemicals) in sentences.
-        We are investigating the use of using auxiliary learning -- training towards multiple, related goals -- to increase
-        the effectiveness of our existing methods for named entity recognition. This is an ongoing project and will be the basis
-        of my undergraduate honors thesis.
+        Named entity recognition (NER) is the task of extracting named entities from text and classifying them using pre-defined
+        categories (e.g. persons, locations, or organizations).
+        State-of-the-art NER models necessitate significant amounts of human-annotated ground-truth data, and the process of annotation 
+        is expensive and time consuming.
+        Thus, a crucial research question is how we can more efficiently collect and use human-annotated ground-truth data.
+        The two projects below -- adversarial data augmentation and entity triggers -- explore data efficiency in named entity recognition.
+        These two projects also make up my honors undergraduate thesis.
 
-    - title: Distantly-Supervised Named Entity Recognition using Triggers
+    - title: Adversarial Data Augmentation for Named Entity Recognition
+      description: >-
+        I am exploring automated methods to develop adversarial data, test data which is created by perturbing a correctly classified example,
+        causing the model to misclassify the adversarial example. Adversarial examples are useful because they demonstrate the limits
+        of state-of-the-art NER models which can guide future research directions for making models more robust. Further, I am investigating
+        the use of adversarial training -- generating additional training data by using the same augmentation methods used for
+        adversarial training. This project is ongoing.
+
+    - title: <a href="https://arxiv.org/abs/2004.07493">TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition</a>
       description: >-
         My team used distantly-supervised machine learning to develop a novel approach to named entity recognition.
         The basic idea is that we use a small amount of human-annotated data consisting of sentences with their words categorically labeled
-        as well as labeled trigger phrases that signal a named entity. We use the trigger phrases to generate weakly labeled sentences, which
-        are used in combination with our original categorically labeled data to train a sentence labeling network.
-        My responsibilities were to implement and test the machine learning algorithms as well as help to write our manuscript, submitted
-        for publication in December 2019.
+        as well as labeled trigger phrases that signal a named entity. We use the trigger phrases to recognize semantically similar in
+        unlabeled sentences, providing additional supervision  when labeling the words of these sentences.
+        My responsibilities were to help implement the machine learning algorithms and help write our manuscript. Our research paper was
+        accepted into the Association for Computational Linguistics in 2020.
 
 - workplace: "USC WRIT 340: Advanced Writing for Engineers"
   date: "Fall 2018"
@@ -26,7 +37,8 @@
         Deep learning has been successful for creative image and sound generation, and I developed a proposal to
         modify these existing techniques for the use of poetry generation.
         I presented my proposal at the Viterbi Student Speaker Symposium in November 2019. My slides can be viewed
-        <a href="/resources/automated_poetry_generation_presentation.pdf">here</a>.
+        <a href="/resources/automated_poetry_generation_presentation.pdf">here</a>. This research paper received
+        1st place for the Viterbi Award for Best Research Paper.
 
 - workplace: <a href="http://robotics.usc.edu/interaction/">USC Interaction Lab:</a> Merit Research Fellow
   date: "Spring 2017"

@@ -1,11 +1,11 @@
 - workplace: "USC Viterbi Teaching Staff"
   projs:
     - title: "CSCI 270: Introduction to Algorithms and the Theory of Computation"
-      date: "Fall 2018 & Present"
+      date: "Fall 2018 & Fall 2019"
       description: >-
         I lead discussion sections, hold office hours, create course content, grade assignments, and proctor and grade exams.
     - title: "CSCI 170: Discrete Methods in Computer Science"
-      date: "Spring 2019"
+      date: "Spring 2019 and Spring 2020"
       description: >-
         I led discussion sections, held office hours, created course content, graded assignments, and proctored and graded exams.
     - title: "CSCI 103: Introduction to Programming"
@@ -14,7 +14,7 @@
         I led lab sections, held office hours, graded assignments, and proctored and graded exams.
 
 - workplace: "Troy Camp"
-  date: "Fall 2018 &mdash; Present"
+  date: "Fall 2018 &mdash; Spring 2020"
   projs:
     - title: "TC Leads"
       description: >-

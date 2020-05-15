@@ -1,3 +1,14 @@
+- title: Honors Undergraduate Thesis
+  url: "/resources/Honors_Thesis.pdf"
+  date: Spring 2020
+  description: >-
+    For my honors undergraduate thesis, I researched data efficiency in named entity recognition (NER). NER is the task of extracting
+    named entities from text and classifying them using pre-defined categories (e.g. persons, locations, or organizations).
+    State-of-the-art NER models necessitate significant amounts of human-annotated ground-truth data, and the process of annotation
+    is expensive and time consuming.
+    Thus, a crucial research question is how we can more efficiently collect and use human-annotated ground-truth data. In my thesis,
+    I explore two techniques for data efficiency in NER -- entity triggers and adversarial data augmentation.
+
 - title: "Introduction to Secure Multi-Party Computation: Garbled Circuits"
   url: "/resources/secure_multi_party_computation_paper.pdf"
   date: "Fall 2019"

@@ -37,7 +37,7 @@ permalink: /about/
 
 <div class = "img-single flex-container flex-aspect">
     <div class = "img-container2 padding">
-        <img src="/resources/personal_photo_michigan.jpg" alt="East Lansing, MI" class = "baseimg"/>
+        <img src="/resources/personal_photo_headshot.jpg" alt="East Lansing, MI" class = "baseimg"/>
     </div>
 </div>
 

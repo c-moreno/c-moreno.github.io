@@ -1,5 +1,16 @@
+- workplace: Cross-Institutional CS Education Research Team
+  date: "Fall 2020 & Spring 2021"
+  projs:
+    - title: Student Misconceptions in Dynamic Programming
+      description: >-
+        Dynamic programming is a fundamental paradigm in undergraduate algorithms courses and is infamous for its difficulty. We are
+        replicating a <a href="https://dl.acm.org/doi/abs/10.1145/3159450.3159528">previous study</a> which sought to understand
+        and categorize student misconceptions in dynamic programming. We are conducting interviews with current undergraduate students
+        across several institutions. During these interviews, we analyze their progress and approaches to solving several algorithmic
+        problems. We hope that our research will inform best practices in teaching undergraduate algorithms courses.
+
 - workplace: <a href="http://inklab.usc.edu">USC Intelligence and Knowledge Lab:</a> Merit Research Fellow
-  date: "Present"
+  date: "Fall 2019 & Spring 2020"
   projs:
     - title: <a href="/resources/Honors_Thesis.pdf">Honors Undergraduate Thesis</a>
       description: >-
@@ -9,15 +20,15 @@
         is expensive and time consuming.
         Thus, a crucial research question is how we can more efficiently collect and use human-annotated ground-truth data.
         The two projects below -- adversarial data augmentation and entity triggers -- explore data efficiency in named entity recognition.
-        These two projects also make up my honors undergraduate thesis.
+        These two projects also made up my honors undergraduate thesis.
 
     - title: Adversarial Data Augmentation for Named Entity Recognition
       description: >-
-        I am exploring automated methods to develop adversarial data, test data which is created by perturbing a correctly classified example,
+        I explored automated methods to develop adversarial data, test data which is created by perturbing a correctly classified example,
         causing the model to misclassify the adversarial example. Adversarial examples are useful because they demonstrate the limits
-        of state-of-the-art NER models which can guide future research directions for making models more robust. Further, I am investigating
+        of state-of-the-art NER models which can guide future research directions for making models more robust. Further, I investigated
         the use of adversarial training -- generating additional training data by using the same augmentation methods used for
-        adversarial training. This project is ongoing.
+        adversarial training.
 
     - title: <a href="https://arxiv.org/abs/2004.07493">TriggerNER&#58; Learning with Entity Triggers as Explanations for Named Entity Recognition</a>
       description: >-
